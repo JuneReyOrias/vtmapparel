@@ -154,10 +154,11 @@ section {
 }
 
 .header {
-    position: sticky;
+    position: fixed;
     top: 0;
     left: 0;
     right: 0;
+    padding: 20px 100px;
     background: #FACAD8;
     backdrop-filter: blur(10px);
     box-shadow: var(--box-shadow);
