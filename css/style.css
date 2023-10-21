@@ -230,7 +230,7 @@ section {
 }
 
 .home-bg {
-    background: url(../images/newimage.png) no-repeat;
+    background: url(../images/home.png) no-repeat;
     background-size: cover;
     background-position: center;
 }
