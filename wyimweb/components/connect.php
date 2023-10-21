@@ -1,8 +1,8 @@
 <?php
 
-$db_name = 'mysql:host=localhost;dbname=ecomerce';
-$user_name = 'root';
-$user_password = 'Imgroot@1998';
+$db_name = 'u767895318_vtmapparel';
+$user_name = 'u767895318_vtmapparel';
+$user_password = '28fnSd!bL=';
 
 $conn = new PDO($db_name, $user_name, $user_password);
 
