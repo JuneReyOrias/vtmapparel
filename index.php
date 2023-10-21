@@ -44,11 +44,11 @@ include 'components/wishlist_cart.php';
    <div class="swiper-wrapper">
    <div class="swiper-slide slide">
          <div class="image">
-            <img src="images/logo.png" alt="">
+            <img src="images/logocompany.pngg" alt="">
          </div>
          <div class="content">
             
-            <h3>Welcome to vtmapparel/h3>
+            <h3>Welcome to VTM APPAREL</h3>
             <a href="shop.php" class="btn">shop now</a>
          </div>
       </div>
