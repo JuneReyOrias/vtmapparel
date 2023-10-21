@@ -14,7 +14,7 @@
 <header class="header">
 
    <section class="flex">
-<div class="logo" style="height: 15rem; border-radius:30%; padding:0rem;  display: flex;"  >
+<div class="logo" style="height: 10rem; border-radius:30%; padding:0rem;  display: flex;"  >
    <img src="images/logocompany.png" class="logo" alt=""></div>
       <!-- <a href="index.php" class="logo"><img src="images/logocompany.png" alt="" style="width:12rem; height:13rem; border-radius:30%;"><span></span></a> -->
 
