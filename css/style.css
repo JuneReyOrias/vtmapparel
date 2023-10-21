@@ -231,6 +231,7 @@ section {
 
 .home-bg {
     background: url(../images/home.png) no-repeat;
+    backdrop-filter: blur(10px);
     background-size: cover;
     background-position: center;
 }
