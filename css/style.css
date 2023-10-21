@@ -159,6 +159,7 @@ section {
     left: 0;
     right: 0;
     background: #FACAD8;
+    backdrop-filter: blur(10px);
     box-shadow: var(--box-shadow);
     z-index: 1000;
 }
